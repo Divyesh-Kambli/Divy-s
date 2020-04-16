@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>Customer Login</title>
+<style>
+.main{
+position:relative;
+}
+.name{
+position:absolute;
+top:3%;
+left:4%;
+}
+.register{
+position:absolute;
+top:20%;
+left:2%;}
+</style>
+</head>
+<body>
+<div class="main">
+<img src="C:\Users\divye\Desktop\Project Website\hotel1.jpg" style="height:750px;width:1300px;">
+<div class="name"><h1>Hotel Visawa Customer Register</h1></div>
+<div class="register">
+<input type="text" placeholder="enter your name"><br>
+<input type="digits" placeholder="enter your mobile number" required ><br>
+<input type="email" placeholder="enter your email" required ><br>
+<input type="password" placeholder="enter your password" required><br>
+
+<input type="Button" value="Register">
+</div>
+
+</body>
